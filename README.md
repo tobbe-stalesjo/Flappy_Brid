@@ -1,3 +1,3 @@
 # Flappy_Brid
 
-Used Python 3,6 and neat
+Used Python 3.7 and neat
